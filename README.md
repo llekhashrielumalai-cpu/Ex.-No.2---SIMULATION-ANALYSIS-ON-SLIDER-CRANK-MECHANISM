@@ -44,8 +44,9 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
 ## Output
-<img width="1920" height="1080" alt="Screenshot (114)" src="https://github.com/user-attachments/assets/0815e795-480f-4bd4-936c-4a24a39b7591" />
-<img width="1920" height="1080" alt="Screenshot (115)" src="https://github.com/user-attachments/assets/ce19521c-d14c-4731-8e92-2d89c4951f65" />
+<img width="1183" height="792" alt="Screenshot 2025-12-28 132328" src="https://github.com/user-attachments/assets/0e6a24b8-5c18-43d6-93a8-a94ef6fab1a7" />
+
+<img width="1099" height="786" alt="Screenshot 2025-12-28 132346" src="https://github.com/user-attachments/assets/2a645d32-fc6b-4f15-a1d7-73df277cc59c" />
 
 
 ### Name:LEKHASHRI E
